@@ -1,1 +1,10 @@
-/* Start coding here */
+form input:hover{
+    background-color: khaki;
+}
+#email  {
+background-color: lightgray;
+}
+
+button:hover{
+    background-color: pink;
+}
